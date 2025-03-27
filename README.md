@@ -4,11 +4,9 @@ This repository contains the code, presentations, and documentation for a predic
 
 # Dataset
 The dataset used in this project contains 39 million rows and 47 columns, capturing detailed records of NYC 311 service requests. 
-Due to its large size, the full dataset is not included in this repository. Instead, it can be accessed via the following link, in the folder named "dataset":
+It can be found on the original website using this link: 
 
-https://drive.google.com/drive/folders/1D71lUXjH75VRnHdeKFGyIqX8LOiIgU-H?usp=drive_link
-
-or it can be found on the original website: https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data
+https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9/about_data
 
 # Repository Contents
 Below is a description of each file in this repository:
